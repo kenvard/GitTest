@@ -3,6 +3,7 @@ package com.kenvard.domain;
 /**
  * Car实体类
  * @author grk
+ * @date 2018
  */
 public class Car {
 
