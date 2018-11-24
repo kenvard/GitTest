@@ -6,5 +6,6 @@ package com.kenvard.domain;
  */
 public class Car {
 
+    private Integer cid;  //汽车实体类主键
 
 }
