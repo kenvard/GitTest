@@ -8,6 +8,6 @@ public class Shop {
 
     private Integer sid; //商品编号
 
-  private String sname; //商品名称
+    private String sname; //商品名称
 
 }
