@@ -6,4 +6,6 @@ package com.kenvard.domain;
  */
 public class Shop {
 
+    private Integer sid; //商品编号
+
 }
