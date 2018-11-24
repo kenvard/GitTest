@@ -14,4 +14,6 @@ public class Car {
 
     private String name;  //拥有者
     
+    private String cAge;    //车龄
+    
 }
