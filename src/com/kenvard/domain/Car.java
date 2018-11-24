@@ -12,4 +12,6 @@ public class Car {
 
     private String cOrder;  //车牌号
     
+    private String cAge;    //车龄
+    
 }
