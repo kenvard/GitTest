@@ -6,4 +6,6 @@ package com.kenvard.domain;
  */
 public class Shop {
 
+  private String sname; //商品名称
+  
 }
