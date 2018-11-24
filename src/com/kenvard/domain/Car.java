@@ -11,5 +11,7 @@ public class Car {
     private Integer cname;  //汽车名称
 
     private String cOrder;  //车牌号
+
+    private String name;  //拥有者
     
 }
