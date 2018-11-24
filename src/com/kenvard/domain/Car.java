@@ -16,4 +16,5 @@ public class Car {
     
     private String cAge;    //车龄
     
+    private String test; //测试字段
 }
