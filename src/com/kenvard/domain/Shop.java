@@ -10,4 +10,6 @@ public class Shop {
 
     private String sname; //商品名称
 
+    private Double price;  //商品价格
+
 }
